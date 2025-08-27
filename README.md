@@ -1,14 +1,14 @@
 # Geeta Sharma
 
 
-Hello! I'm Geeta Sharma, a Data Engineer passionate about turning data into actionable insights. With extensive experience in working on big data projects, handling large ETL pipelines, and solving tough business problems, I work to deliver impactful data solutions. Welcome to my GitHub profile!
+Hello! I'm Geeta Sharma, a Data Analyst passionate about turning data into actionable insights. With extensive experience in working on big data projects, handling large ETL pipelines, and solving tough business problems, I work to deliver impactful data solutions. Welcome to my GitHub profile!
 
 ## 🚀 Skills & Expertise
 
 - **Data Orchestration**: Expert in Apache Airflow for automating and managing complex data workflows.
 - **Cloud Platforms**: 
   - **AWS**: S3, Lambda, Redshift, Glue
-  - **Azure**: Data Factory, Synapse
+  - **Power Bi**:
   - **Google Cloud**: Databricks, BigQuery
 - **Programming**: 
   - **Python**: Pandas, NumPy, PySpark
