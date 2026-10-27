@@ -1,40 +1,32 @@
 # Geeta Sharma
 
-### AI / GenAI Developer | Python • FastAPI • RAG • LangGraph
+### Generative AI Developer | AI Engineer | Agentic AI Developer
 
-I build and learn practical AI-powered backend applications, including retrieval-augmented generation (RAG), multi-step agent workflows, authentication, and API development.
+I develop AI-powered backend applications using **Python, FastAPI, LangChain, LangGraph, and Large Language Models (LLMs)**. My work focuses on **RAG systems, AI agents, API integration, and production-ready backend workflows**.
 
-My background also includes data analytics with SQL, Python, and Power BI. This GitHub brings together my AI projects, backend work, and programming practice.
+## Core tech stack
 
-## Featured projects
+- **Generative AI:** LLMs, prompt engineering, RAG, embeddings, vector databases, tool calling
+- **Agentic AI:** LangGraph, LangChain, multi-step workflows, state management, agent orchestration
+- **Backend development:** Python, FastAPI, REST APIs, Pydantic, JWT authentication
+- **Databases and caching:** PostgreSQL, Redis, Qdrant
+- **Deployment and development:** Docker, Git, GitHub, AWS, API testing, logging and error handling
 
-| Project | What it demonstrates |
+## Featured AI projects
+
+| Project | Highlights |
 | --- | --- |
-| [WellMind AI](https://github.com/Geeta2790/mental-health-chatbot) | Mental-wellness assistant using FastAPI, LangGraph, Qdrant, RAG, JWT authentication, and PostgreSQL |
-| [Cloud Agent](https://github.com/Geeta2790/Cloud_agent) | Cloud-agent / automation project with Python, Docker, tests, and CI-related configuration |
-| [Cloud AI Assistance](https://github.com/Geeta2790/Cloud_ai_assistance) | AI assistance backend project |
-| [AI Video Platform](https://github.com/Geeta2790/ai-video-platform) | Video platform backend with FastAPI, PostgreSQL, Redis, and MinIO |
-| [My Portfolio](https://github.com/Geeta2790/geeta-portfolio) | Personal website using React, Vite, and GitHub Pages |
+| [WellMind AI — RAG Chatbot](https://github.com/Geeta2790/mental-health-chatbot) | FastAPI, LangGraph, Qdrant, PostgreSQL, RAG, JWT authentication, and safety workflows |
+| [Cloud Agent](https://github.com/Geeta2790/Cloud_agent) | Cloud automation and agent backend project |
+| [Cloud AI Assistance](https://github.com/Geeta2790/Cloud_ai_assistance) | Python-based AI assistance application |
+| [AI Video Platform](https://github.com/Geeta2790/ai-video-platform) | FastAPI backend with PostgreSQL, Redis, and MinIO |
+| [Developer Portfolio](https://github.com/Geeta2790/geeta-portfolio) | Personal website built with React and Vite |
 
-## Technical skills
+## Engineering interests
 
-- **AI engineering:** RAG, embeddings, vector search, LangGraph, LangChain, LLM APIs
-- **Backend:** Python, FastAPI, REST APIs, Pydantic, JWT authentication
-- **Data and storage:** PostgreSQL, Redis, SQL, Qdrant
-- **Development and deployment:** Git, GitHub, Docker, AWS fundamentals
-- **Analytics:** Pandas, Power BI, data analysis
+I focus on building **reliable, secure, observable, and maintainable GenAI applications**: retrieval quality, structured outputs, API design, error handling, evaluation, monitoring, and deployment.
 
-## Learning and practice
+## Connect
 
-- [Advanced Python](https://github.com/Geeta2790/advancedpython)
-- [Advanced SQL](https://github.com/Geeta2790/advancedsql)
-- [HR Analytics Dashboard](https://github.com/Geeta2790/PowerBI-HR-Analytics-Dashboard)
-- [Customer Sales Analysis](https://github.com/Geeta2790/customer-sales-analysis)
-
-## What I'm focusing on
-
-Reliable AI applications: clean API design, robust error handling, structured outputs, RAG evaluation, observability, and safe production workflows.
-
----
-
-**Explore my work:** [Portfolio](https://geetasharma.me) · [GitHub repositories](https://github.com/Geeta2790?tab=repositories)
+- **Portfolio:** https://geetasharma.me
+- **GitHub:** https://github.com/Geeta2790
