@@ -1,47 +1,40 @@
 # Geeta Sharma
 
+### AI / GenAI Developer | Python • FastAPI • RAG • LangGraph
 
-Hello! I'm Geeta Sharma, a Data Analyst passionate about turning data into actionable insights. With extensive experience in working on big data projects, handling large ETL pipelines, and solving tough business problems, I work to deliver impactful data solutions. Welcome to my GitHub profile!
+I build and learn practical AI-powered backend applications, including retrieval-augmented generation (RAG), multi-step agent workflows, authentication, and API development.
 
-## 🚀 Skills & Expertise
+My background also includes data analytics with SQL, Python, and Power BI. This GitHub brings together my AI projects, backend work, and programming practice.
 
-- **Data Orchestration**: Expert in Apache Airflow for automating and managing complex data workflows.
-- **Cloud Platforms**: 
-  - **AWS**: S3, Lambda, Redshift, Glue
-  - **Power Bi**:
-  - **Google Cloud**: Databricks, BigQuery
-- **Programming**: 
-  - **Python**: Pandas, NumPy, PySpark
-  - **SQL**: Advanced querying and data manipulation
-- **Big Data Technologies**: Spark, Hadoop
-- **Data Warehousing**: Experience with Snowflake and Redshift
-- **Containerization**: Docker for deploying scalable applications
+## Featured projects
 
-## Projects
+| Project | What it demonstrates |
+| --- | --- |
+| [WellMind AI](https://github.com/Geeta2790/mental-health-chatbot) | Mental-wellness assistant using FastAPI, LangGraph, Qdrant, RAG, JWT authentication, and PostgreSQL |
+| [Cloud Agent](https://github.com/Geeta2790/Cloud_agent) | Cloud-agent / automation project with Python, Docker, tests, and CI-related configuration |
+| [Cloud AI Assistance](https://github.com/Geeta2790/Cloud_ai_assistance) | AI assistance backend project |
+| [AI Video Platform](https://github.com/Geeta2790/ai-video-platform) | Video platform backend with FastAPI, PostgreSQL, Redis, and MinIO |
+| [My Portfolio](https://github.com/Geeta2790/geeta-portfolio) | Personal website using React, Vite, and GitHub Pages |
 
-- **Automated Data Pipelines**: Built end-to-end data pipelines using Airflow, ensuring seamless data flow and quality.
-- **Cloud Data Solutions**: Designed scalable data architectures on AWS and Azure, optimizing for performance and cost.
-- **Real-time Analytics**: Implemented real-time data processing systems using Azure Stream Analytics and Google BigQuery.
+## Technical skills
 
-## Project: Boost.ai
+- **AI engineering:** RAG, embeddings, vector search, LangGraph, LangChain, LLM APIs
+- **Backend:** Python, FastAPI, REST APIs, Pydantic, JWT authentication
+- **Data and storage:** PostgreSQL, Redis, SQL, Qdrant
+- **Development and deployment:** Git, GitHub, Docker, AWS fundamentals
+- **Analytics:** Pandas, Power BI, data analysis
 
-I had the opportunity to work on a project involving [Boost.ai](https://www.boost.ai), a leading conversational AI platform that specializes in creating virtual agents for customer service and support. 
+## Learning and practice
 
-### Key Contributions:
-- **Data Integration**: Developed and optimized data pipelines to integrate various data sources into the Boost.ai platform, ensuring seamless data flow and accessibility.
-- **ETL Processes**: Designed and implemented efficient ETL processes to handle large volumes of data, enhancing the platform's ability to deliver real-time insights and analytics.
-- **AI Model Enhancement**: Collaborated with data scientists to improve the accuracy and efficiency of AI models, contributing to more effective and responsive virtual agents.
-- **Performance Optimization**: Conducted performance tuning and optimization of data workflows, resulting in faster data processing and reduced latency.
+- [Advanced Python](https://github.com/Geeta2790/advancedpython)
+- [Advanced SQL](https://github.com/Geeta2790/advancedsql)
+- [HR Analytics Dashboard](https://github.com/Geeta2790/PowerBI-HR-Analytics-Dashboard)
+- [Customer Sales Analysis](https://github.com/Geeta2790/customer-sales-analysis)
 
-This project allowed me to leverage my data engineering skills to enhance the capabilities of a cutting-edge AI platform, ultimately improving customer interactions and satisfaction.
-## 📈 Continuous Learning
+## What I'm focusing on
 
-I am always exploring new technologies and trends in data engineering. I enjoy learning through online courses, webinars, and community events.
-
-## 🤝 Connect with Me
-
-Let's collaborate or chat about data! Reach out on [LinkedIn](https://www.linkedin.com/in/geetasharma) or [Email](mailto:geeta.sharma@example.com).
+Reliable AI applications: clean API design, robust error handling, structured outputs, RAG evaluation, observability, and safe production workflows.
 
 ---
 
-*Note: This README is a fictional representation for illustrative purposes.*
+**Explore my work:** [Portfolio](https://geetasharma.me) · [GitHub repositories](https://github.com/Geeta2790?tab=repositories)
